@@ -4,7 +4,7 @@ module.exports = {
     
     //邮箱配置(qq邮箱)
     emailUser: "2657179843@qq.com", // 账号   你自定义的域名邮箱账号
-    emailPass: "ezvlmdkbqdeiebhj",    // 密码   你自己开启SMPT获取的密码
-    toEmailList: ['2657179843@qq.com','522007616@qq.com'],    // '522007616@qq.com'收件列表，可同时发送给多个人
-    emailSubject: '来自馒头耙耙的每日关心',   //邮件标题
+    emailPass: "jkuclachemnfeahi",    // 密码   你自己开启SMPT获取的密码
+    toEmailList: ["2657179843@qq.com"],    // '522007616@qq.com'收件列表，可同时发送给多个人
+    emailSubject: "来自馒头耙耙的每日关心",   //邮件标题
 }
